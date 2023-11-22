@@ -1,7 +1,6 @@
 ## Oi! Meu nome é Guilherme Gomes, muito prazer!🙂 
 
-- 🔭 Atualmente sou jovem aprendiz e trabalho com análise de dados
-- 🌱 Estudando Python
+- 🔭 Atualmente sou estudante de Análise e desenvolvimento de sistemas na Uninove
 - 😄 Pronomes: ele/dele
 
 <div align="center">
