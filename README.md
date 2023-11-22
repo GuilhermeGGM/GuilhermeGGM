@@ -1,6 +1,7 @@
 ## Oi! Meu nome é Guilherme Gomes, muito prazer!🙂 
 
 - 🔭 Atualmente sou estudante de Análise e desenvolvimento de sistemas na Uninove
+- 💻 Estou procurando estágio de TI, mais focado em Back-end, mas aceito propostas para atuar em outras areas de TI
 - 😄 Pronomes: ele/dele
 
 <div align="center">
